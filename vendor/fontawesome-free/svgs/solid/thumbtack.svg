@@ -1,0 +1,4 @@
+edAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.UnitTest.Desktop.Build.Core,version=17.8.34205.65,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.TestTools.TestPlatform.V1.CPP,version=17.8.34205.153,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.TestTools.TP.V1.CPP.Resources,version=17.8.34205.153,language=es-ES,productarch=neutral, CurrentState: Absent, RequestedSt

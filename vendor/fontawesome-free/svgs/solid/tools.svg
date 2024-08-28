@@ -1,0 +1,6 @@
+dAction: None.
+[16cc:0001][2024-01-12T11:57:26] Non-installable Package: Microsoft.VisualStudio.PackageGroup.TestTools.Native,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.Templates.UnitTest,version=17.8.34205.153,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.UnitTest.Desktop.Build.Core,version=17.8.34205.65,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.TestTools.TestPlatform.V1.CPP,version=17.8.34205.153,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T

@@ -1,0 +1,6 @@
+: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CodeAnalysis.ConcCheck.X64.base,version=14.29.30142,chip=x64, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CA.ConcCheck.X64.Res.base,version=14.29.30142,chip=x64,language=es-ES, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.Tools.Core.x86,version=14.29.30136, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.Tools.Core.Props,version=14.29.30136, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][

@@ -1,0 +1,7 @@
+ate: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.CRT.arm.Desktop.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Non-installable Package: Microsoft.VisualStudio.PackageGroup.VC.Tools.x64.ARM,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.Premium.Tools.Hostx86.Targetarm,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.Premium.Tools.Hostx86.Targetarm.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.Prem.HostX86.TargetARM.Res.base,version=14.38.33130,language=es-ES, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.Premium.Tools.HostX64.TargetARM,version=14.38.33130,chip=x64, CurrentState: Absent, RequestedState: Ab

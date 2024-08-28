@@ -1,0 +1,11 @@
+:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.140.ATL.ARM.Msi,version=14.0.24247, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64, CurrentState: Absent, RequestedState: Absent, DetectionState: Superseded, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.Windows.UniversalCRT.ExtensionSDK.Msi,version=10.0.26624.1, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.Windows.UniversalCRT.HeadersLibsSources.Msi,version=10.0.26624.1, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.Tools.HostX64.TargetX86,version=14.16.27051,chip=x64, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.Tools.HostX64.TargetX86.Resources,version=14.16.27051,chip=x64,language=es-ES, CurrentState: Absent, RequestedState: Absent, 

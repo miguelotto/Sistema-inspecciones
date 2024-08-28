@@ -1,0 +1,5 @@
+ecab0e1b060932a0a1f5ef71c75f27c/VisualStudio.vsman" and using the channel URI "https://aka.ms/vs/17/release/channel".
+[16cc:0007][2024-01-12T11:57:11] Download requested: https://download.visualstudio.microsoft.com/download/pr/78eb9d79-decd-4704-adc0-78dba2473667/aff451a838f7823fe2402fd261382f73becab0e1b060932a0a1f5ef71c75f27c/VisualStudio.vsman
+[16cc:001c][2024-01-12T11:57:11] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/78eb9d79-decd-4704-adc0-78dba2473667/aff451a838f7823fe2402fd261382f73becab0e1b060932a0a1f5ef71c75f27c/VisualStudio.vsman' using engine 'WebClient'
+[16cc:001c][2024-01-12T11:57:13] ManifestVerifier Result: Success
+[16cc:001c][2024-01-12T11:57:13] Download of 'https://download.visualstudio.microsoft.com/download/pr/78eb9d79-decd-4704-adc0-78dba2473667/aff451a838f7823fe2402fd261382f73becab0e1b060932a0a1f5ef71c75f27c/VisualStud

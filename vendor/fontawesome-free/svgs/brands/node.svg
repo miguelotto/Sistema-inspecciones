@@ -1,0 +1,17 @@
+2T11:57:26] Package: Microsoft.VC.14.38.17.8.MFC.MBCS.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.MFC.MBCS.Debug.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.ARM64.Spectre,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.ARM64.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.Props.ARM64.Spectre,version=14.38.33134, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.ARM.Spectre,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.ARM.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.Props.ARM.Spectre,version=14.38.33134, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.X86.Spectre,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.X86.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.X64.Spectre,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.X64.Spectre.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.ARM64,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.ARM64.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.ATL.ARM,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.ATL.ARM.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.LinqToSql,version=17.8.34205.153,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, Pla

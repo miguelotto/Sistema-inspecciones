@@ -1,0 +1,7 @@
+] Resetting planned action to 'None' for package 'sqlsysclrtypes,version=16.0.62205.5200,chip=x86,language=es-ES' since its superseding package is already installed/superseded.
+[16cc:0001][2024-01-12T11:59:12] Compatible ProductCode '{7FAD4DD7-7874-48A9-8E1C-1EAE6267A5A5}' found for package 'sqlsysclrtypes,version=16.0.62205.5200,chip=x64,language=es-ES'
+[16cc:0001][2024-01-12T11:59:12] Compatible package is not installed. Code '{7FAD4DD7-7874-48A9-8E1C-1EAE6267A5A5}' will not be used for repair/uninstall attempts.
+[16cc:0001][2024-01-12T11:59:12] Warning: Windows Installer found the package 'sqlsysclrtypes,version=16.0.62205.5200,chip=x64,language=es-ES' superseded but corresponding compatible package information was not found. Attempts to repair will be skipped and that to uninstall may leave the cache behind.
+[16cc:0001][2024-01-12T11:59:12] Compatible ProductCode '{7FAD4DD7-7874-48A9-8E1C-1EAE6267A5A5}' found for package 'sqlsysclrtypes,version=16.0.62311.22120,chip=x64,language=es-ES'
+[16cc:0001][2024-01-12T11:59:12] Compatible package is not installed. Code '{7FAD4DD7-7874-48A9-8E1C-1EAE6267A5A5}' will not be used for repair/uninstall attempts.
+[16cc:0001][2024-01-12T11:59:12] Warning: Windows Installer found the package 'sqlsysclrtypes,version=16.0.62311.22120,chip=x64,language=es-ES' superseded but corresponding compatible package information was not fou

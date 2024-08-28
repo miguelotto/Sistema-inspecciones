@@ -1,0 +1,27 @@
+-4BFC-874A-C0F2E0B9FA8E}\\Microsoft SQL Server Management Studio 19\\Common7\\IDE\\Microsoft.AnalysisServices.Deployment.exe",
+"productName": "microsoft sql server",
+"originalFileName": "microsoft.analysisservices.deployment.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "16.0.20054.0",
+"binFileVersion": "16.0.20054.0",
+"path": "%programfiles(x86)%\\microsoft sql server management studio 19\\common7\\ide\\microsoft.analysisservices.deployment.exe"
+},{"aumid": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft SQL Server Management Studio 19\\Common7\\IDE\\Ssms.exe",
+"productName": "microsoft sql server",
+"originalFileName": "ssms.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "19.2.56.2",
+"binFileVersion": "2023.190.2.56",
+"path": "%programfiles(x86)%\\microsoft sql server management studio 19\\common7\\ide\\ssms.exe"
+},{"aumid": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft SQL Server Management Studio 19\\Common7\\PROFILER.EXE",
+"productName": "microsoft sql server",
+"originalFileName": "profiler.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "16.0.4001.1",
+"binFileVersion": "2022.160.4001.1",
+"path": "%programfiles(x86)%\\microsoft sql server management studio 19\\common7\\profiler.exe"
+},{"productName": "microsoft sql server",
+"originalFileName": "asinstancerename.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "16.0.20054.0",
+"binFileVersion": "16.0.20054.0",
+"path": "%programfiles(x86)%\\microsoft sql server management stu

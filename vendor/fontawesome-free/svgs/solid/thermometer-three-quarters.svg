@@ -1,0 +1,5 @@
+9.30152,language=es-ES, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CRT.x86.Store,version=14.29.30153, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CRT.x86.Store.base,version=14.29.30153, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CRT.x86.OneCore.Desktop,version=14.29.30153, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.29.16.11.CRT.x86.OneCore.Desktop.base,version=14.29.30153, CurrentState: Absent, RequestedState: Absen

@@ -1,0 +1,5 @@
+: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.Servicing.ATL,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.WindowsAppSDK.Cs.Dev17,version=1.4.230913002, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.PortableLibrary.TargetingPack.Msi.Resources,version=17.8.34205.153,language=es-ES, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][20

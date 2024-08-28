@@ -1,0 +1,16 @@
+on\Python312\Lib\site-packages\PyQt6\Qt6\bin
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk -> C:\src\flutter\bin\cache\dart-sdk\bin
+[13:09:53] [General] [Info]     Found at:
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk -> C:\src\flutter\bin\cache\dart-sdk\bin
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk -> C:\src\flutter\bin\cache\dart-sdk\bin
+[13:09:53] [General] [Info]     Candidate paths to be post-filtered:
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk
+[13:09:53] [General] [Info]         C:\src\flutter\bin\cache\dart-sdk
+[13:09:53] [General] [Info]     Found at C:\src\flutter\bin\cache\dart-sdk
+[13:09:53] [General] [Info]     Returning SDK path C:\src\flutter\bin\cache\dart-sdk for dart.exe
+[13:09:53] [General] [Info] Experiment random number is 19 for experiment 'sdkDaps'. Experiment is enabled for <= 100
+[13:09:53] [General] [Info] Experiment 'sdkDaps' is activating (not first time)
+[13:09:53] [General] [Info] Experiment random number is 19 for experiment 'sdkDaps'. Experiment is enabled for <= 100
+[13:09:53] [General] [Info] Experiment 'sdkDaps' is activating (not first time)
+[13:09:53] [General] [Info] Experiment random number is 19 for exper

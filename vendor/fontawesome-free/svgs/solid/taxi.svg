@@ -1,0 +1,5 @@
+6] Package: Microsoft.VisualStudio.DotNetNative.ILC,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.Windows.CppWinRT.Dev17,version=2.0.220531.1, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.Templates.Windows.UAP,version=17.8.34129.139,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.Templates.Windows.UAP.Resources,version=17.8.34205.65,language=es-ES,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionStat

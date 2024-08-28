@@ -1,0 +1,86 @@
+/* .divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+} */
+
+.navbar-sidenav {
+  overflow-y: auto !important;
+  -ms-overflow-style: none !important;
+}
+
+.navbar-sidenav::-webkit-scrollbar {
+  width: 0px !important;
+  display: none !important;
+}
+.checkbox-cell {
+    position: relative;
+  display: flex;
+  align-items: center; /* Aligns checkbox vertically */
+}
+
+.form-check-input {
+  margin-right: 10px; /* Adds spacing between checkbox and label */
+}
+
+.form-select:hover {
+  background-color: #6a11cb;
+}
+
+.icono {
+  /*transform: scale(0.1);*/
+  width: 40px;
+  margin-right: 0.5em;
+}
+sup {
+  margin-right: 5em;
+}
+.panel {
+  border: 1px solid rgb(59, 57, 52);
+  background-color: #6a11cb;
+}
+label {
+  color: var(--gray-dark);
+}
+
+.foto {
+  background-image: url("../img/ep-1000.jpg");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.form-contenido {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gradient {
+  /* fallback for old browsers */
+  background: #6a11cb;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(
+    to right,
+    rgba(106, 17, 203, 1),
+    rgba(37, 117, 252, 1)
+  );
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(
+    to right,
+    rgba(106, 17, 203, 1),
+    rgba(37, 117, 252, 1)
+  );
+}

@@ -1,0 +1,5 @@
+ctionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualCpp.CRT.ARM64.Desktop,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.CRT.ARM64.Desktop.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VC.14.38.17.8.CRT.ARM64.Desktop.debug.base,version=14.38.33130, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Non-installable Package: Microsoft.VisualStudio.PackageGroup.VC.Tools.x64.ARM64,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, Detec

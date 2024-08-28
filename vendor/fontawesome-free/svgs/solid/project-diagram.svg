@@ -1,0 +1,8 @@
+G: --> handle_output
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  handle_output: WinLogEventHandler
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: WinLogEventHandler
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  WinLogEventHandler MB_SUBSCRIBE_EVENT
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  WLOG: --> startSubService
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  GmsService: sending message to Configurator
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  GmsService: sending message - found destination service
+(4868)[2024-03-04 10:30:08.618359][LM_DEBUG   ]  WinLogEventHandler, 0x82

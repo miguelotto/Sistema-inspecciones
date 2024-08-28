@@ -1,0 +1,5 @@
+ma operativo actual, '10.0.22631.0', no está dentro del intervalo de versiones admitidas, '[6.2,6.3)'.
+[16cc:0001][2024-01-12T11:57:19] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: La versión del sistema operativo actual, '10.0.22631.0', no está dentro del intervalo de versiones admitidas, '[6.3,6.4)'.
+[16cc:0001][2024-01-12T11:57:19] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: La versión del sistema operativo actual, '10.0.22631.0', no está dentro del intervalo de versiones admitidas, '[10.0.19042,10.0.22000]'.
+[16cc:0001][2024-01-12T11:57:19] Package Microsoft.Net.4.8.FullRedist.Resources.20H2 is not applicable: La versión del sistema operativo actual, '10.0.22631.0', no está dentro del intervalo de versiones admitidas, '[10.0.19042,10.0.22000]'.
+[16cc:0001][2024-01-12T11:57:19] Package Microsoft.Net.4.8.FullRedist is not

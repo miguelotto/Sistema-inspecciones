@@ -1,0 +1,20 @@
+orporation",
+"binProductVersion": "2.3.28307.1401",
+"binFileVersion": "2.3.28307.1401",
+"path": "%programfiles(x86)%\\microsoft help viewer\\v2.3\\hlpctntmgr.exe"
+},{"productName": "microsoft help viewer",
+"originalFileName": "hlpviewer.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "2.3.28307.1401",
+"binFileVersion": "2.3.28307.1401",
+"path": "%programfiles(x86)%\\microsoft help viewer\\v2.3\\hlpviewer.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Firefox Developer Edition 121.0 (x64 es-ES)",
+"programId": "0000bd5e7d0a154b6b10230cd2957499afde0000ffff",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|C:\\Program Files\\Firefox Developer Edition",
+"files" : [{"aumid": "CA9422711AE1A81C",
+"productName": "firefox developer edition",
+"originalFileName": "firefox.exe",
+"companyName": "mozilla corporation",
+"binProductVersion

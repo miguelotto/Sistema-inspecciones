@@ -1,0 +1,5 @@
+.
+[16cc:0001][2024-01-12T11:57:26] Package: Win11SDK_10.0.22000,version=10.0.22000.4,productarch=neutral,machinearch=x64, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.Llvm.Clang,version=17.8.34129.139,productarch=neutral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.VC.MSBuild.Llvm,version=17.8.34219.24,productarch=neutral, CurrentState: Absent, RequestedState: Absent, Detecti

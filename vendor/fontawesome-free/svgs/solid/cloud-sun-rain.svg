@@ -1,0 +1,11 @@
+ INFO Reading directory: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\resources"
+Jan 12 15:14:47.944 INFO Reading directory: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\bat"
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\bat\\language-configuration.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\bat\\package.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\bat\\package.nls.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Reading directory: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\clojure"
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\clojure\\language-configuration.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\clojure\\package.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Get file handle: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\clojure\\package.nls.json" (attempt 1)
+Jan 12 15:14:47.944 INFO Reading directory: "C:\\Users\\ALUMNO\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\coffeescript"
+Jan 12 15:14:47.944 INFO Get

@@ -1,0 +1,41 @@
+productName": "intellij platform",
+"originalFileName": "fsnotifier64.exe",
+"companyName": "jetbrains s.r.o.",
+"binProductVersion": "14.0.0.16",
+"binFileVersion": "14.0.0.16",
+"path": "%programfiles%\\android\\android studio\\bin\\fsnotifier.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\SQLyog64",
+"programId": "0000c989c9d244db7df05272c773908d39ca0000ffff",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|C:\\Program Files\\SQLyog",
+"files" : [{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\SQLyog\\SQLyog.exe",
+"productName": "sqlyog",
+"originalFileName": "sqlyog.exe",
+"companyName": "webyog inc.",
+"binProductVersion": "11.1.1.0",
+"binFileVersion": "11.1.1.0",
+"path": "%programfiles%\\sqlyog\\sqlyog.exe"
+},{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\SQLyog\\uninst.exe",
+"productName": "sqlyog",
+"companyName": "webyog inc.",
+"binProductVersion": "11.1.1.0",
+"binFileVersion": "11.1.1.0",
+"path": "%programfiles%\\sqlyog\\uninst.exe"
+},{"productName": "putty suite",
+"originalFileName": "plink",
+"companyName": "simon tatham",
+"binProductVersion": "0.0.0.0",
+"binFileVersion": "0.0.0.0",
+"path": "%programfiles%\\sqlyog\\plink.exe"
+},{"productName": "sqlyog",
+"originalFileName": "sja.exe",
+"companyName": "webyog inc.",
+"binProductVersion": "11.1.1.0",
+"binFileVersion": "11.1.1.0",
+"path": "%programfiles%\\sqlyog\\sja.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{40029745-ab61-4b70-b59a-32c366b67ff4}",
+"programId": "0000ca20deecc341f2647ce5bc6b509d4d100000ffff",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|c:\\programdata\\package cache\\{400297

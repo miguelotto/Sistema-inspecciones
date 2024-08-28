@@ -1,0 +1,17 @@
+51ce2905e4ca4b00000904",
+"compatFlags": "0",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{C4C694C1-7572-486A-853A-38820D3C7AC5}",
+"programId": "0000796383dda15758866bf5e14e5cdeb9a300000a0c",
+"compatFlags": "4",
+"files" : []
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{3A981D80-905C-483A-9D99-DB81116E3894}",
+"programId": "00007dfa41bf26b6fa753326e02f10fbb39400000904",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|C:\\SQL2022\\Developer_ESN\\x64\\Setup\\",
+"files" : [{"aumid": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\DQSInstaller.exe",
+"productName": "microsoft sql server",
+"originalFileName": "dqsinstaller.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "16.0.1000.6",
+"binFileVersion": "16.0.1000.6",

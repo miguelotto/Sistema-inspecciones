@@ -1,0 +1,6 @@
+tral, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Win10SDK_IpOverUsb,version=10.0.0.13, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Dependency action plan - PackageExecuteAction: None, PlannedActionForDependency: Remove.
+[16cc:0001][2024-01-12T11:57:26] Non-installable Package: Microsoft.VisualStudio.PackageGroup.UWP.Common,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Non-installable Package: Microsoft.VisualStudio.PackageGroup.UWP.Templates,version=17.8.34129.139, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualStudio.Templates.UWP,version=17.8.34129.139,productarch=neutral, Curre

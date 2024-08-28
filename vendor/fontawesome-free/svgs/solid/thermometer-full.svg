@@ -1,0 +1,5 @@
+14.16.27047, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.CodeAnalysis.Extensions.X64,version=14.16.27047,chip=x64, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.CodeAnalysis.ConcCheck.X86,version=14.16.27045, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.CodeAnalysis.ConcCheck.X86.Resources,version=14.16.27045,language=es-ES, CurrentState: Absent, RequestedState: Absent, DetectionState: Absent, PlannedAction: None.
+[16cc:0001][2024-01-12T11:57:26] Package: Microsoft.VisualC.14.16.CodeAnalysis.ConcCheck.X64,version=1

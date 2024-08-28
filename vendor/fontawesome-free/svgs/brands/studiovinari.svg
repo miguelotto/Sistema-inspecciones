@@ -1,0 +1,16 @@
+e",
+"companyName": "microsoft corporation",
+"binProductVersion": "7.1.8412.1718",
+"binFileVersion": "7.1.8412.1718",
+"path": "%programfiles(x86)%\\iis express\\iisexpressadmincmd.exe"
+},{"productName": "microsoft® web platform extensions",
+"originalFileName": "iisexpresstray.exe",
+"companyName": "microsoft corporation",
+"binProductVersion": "7.1.8412.1722",
+"binFileVersion": "7.1.8412.1722",
+"path": "%programfiles(x86)%\\iis express\\iisexpresstray.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{36F01827-0DE5-460B-A12D-CBC724DE407E}",
+"programId": "00009068e7e3bddc9a235e40f1bcb31edcb100000a0c",
+"compatFlags": "4",
+"restoreAction": "RootDirPath|C:\\ProgramData\\Microsoft\\V

@@ -1,0 +1,23 @@
+ 3.80.0 (activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.85.1
+
+Workspace type: Flutter (LSP)
+
+Dart (3.2.4): C:\src\flutter\bin\cache\dart-sdk
+Flutter (3.16.7): C:\src\flutter (No device)
+
+HTTP_PROXY: http://192.168.4.3:8080, NO_PROXY: 127.0.0.1,localhost,::1
+[13:10:47] [General] [Info] Returning cached results for project search
+[13:10:51] [General] [Info] Pubspec C:\Users\ALUMNO\Desktop\proyecto flutter\app\pubspec.yaml was modified
+[13:10:52] [General] [Info] Returning cached results for project search
+[13:10:52] [General] [Info] Version last used for Pub is 3.2.4 (3.2.0), current is 3.2.4 (3.2.0)
+[13:10:52] [General] [Info] Found 0 folders requiring "pub get" or "pub upgrade":
+[13:10:55] [General] [Info] Returning cached results for project search
+[13:11:50] [General] [Info] Pubspec C:\Users\ALUMNO\Desktop\proyecto flutter\app\pubspec.yaml was modified
+[13:11:51] [General] [Info] Returning cached results for project search
+[13:11:51] [General] [Info] Version last used for Pub is 3.2.4 (3.2.0), current is 3.2.4 (3.2.0)
+[13:11:51] [General] [Info] Found 1 folders requiring "pub get" or "pub upgrade":
+    C:\Users\ALUMNO\Desktop\proyecto flutter\app (get: true, upgrade: false, reason: pubspec.yaml was modified (Fri Jan 12 2024 13:11:50 GMT-0400 (hora de Venezuela)) more recently than pubspec.lock (Fri Jan 12 2024 13:10:54 GMT-0400 (hora de Venezuela))

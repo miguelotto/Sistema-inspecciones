@@ -1,0 +1,19 @@
+corporation",
+"binProductVersion": "14.38.33130.0",
+"binFileVersion": "14.38.33130.0",
+"path": "%programdata%\\package cache\\{1de5e707-82da-4db6-b810-5d140cc4cbb3}\\vc_redist.x64.exe"
+}]
+},{"path": "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{A2F93D4D-7E25-44F9-A051-7204EE8CF6E9}",
+"programId": "0000b177f5246335436389d04b6eaa73fddc00000000",
+"compatFlags": "0",
+"files" : [{"productName": "software manager",
+"originalFileName": "agent.exe",
+"companyName": "flexera software, inc.",
+"binProductVersion": "255.1.0.0",
+"binFileVersion": "255.1.100.1100",
+"path": "%programdata%\\macrovision\\flexnet connect\\11\\agent.exe"
+},{"productName": "installshield update service",
+"originalFileName": "dwusplay.exe",
+"companyName": "installshield software corporation",
+"binProductVersion": "1.20.0.0",
+"

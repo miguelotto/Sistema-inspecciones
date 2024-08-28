@@ -1,0 +1,26 @@
+34-7B44-AC0F074E4100}",
+"programId": "0000cd9495fd82c66c0107ce580b5aa02a8700000a04",
+"compatFlags": "0",
+"restoreAction": "RootDirPath|C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\",
+"files" : [{"aumid": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe",
+"productName": "adobe acrobat reader",
+"originalFileName": "acrord32.exe",
+"companyName": "adobe systems incorporated",
+"binProductVersion": "23.8.20458.0",
+"binFileVersion": "23.8.20458.0",
+"path": "%programfiles(x86)%\\adobe\\acrobat reader dc\\reader\\acrord32.exe"
+},{"productName": "adobe acrobat 32bitmapibroker",
+"originalFileName": "32bitmapibroker.exe",
+"companyName": "adobe systems incorporated",
+"binProductVersion": "23.3.20201.0",
+"binFileVersion": "23.3.20201.0",
+"path": "%programfiles(x86)%\\adobe\\acrobat reader dc\\reader\\plug_ins\\pi_brokers\\32bitmapibroker.exe"
+},{"productName": "adobe acrobat 64bitmapibroker",
+"originalFileName": "64bitmapibroker.exe",
+"companyName": "adobe systems incorporated",
+"binProductVersion": "23.3.20201.0",
+"binFileVersion": "23.3.20201.0",
+"path": "%programfiles(x86)%\\adobe\\acrobat reader dc\\reader\\plug_ins\\pi_brokers\\64bitmapibroker.exe"
+},{"productName": "adobe pdf broker process for internet explorer",
+"originalFileName": "acrobroker.exe",
+"companyName": "adobe systems
